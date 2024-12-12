@@ -1,0 +1,8 @@
+{
+  "name": "yt-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ytdl-core": "^4.11.2"
+  }
+}
